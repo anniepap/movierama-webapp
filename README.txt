@@ -1,4 +1,4 @@
-MOVIERAMA (Assignment for the Frontend engineer position)
+MOVIERAMA
 
 > Technologies:
 The project is as plain as possible, written in Vanilla JS, HTML, CSS.
